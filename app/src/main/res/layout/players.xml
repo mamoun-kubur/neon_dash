@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/a2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="player 2"
+            android:textColor="#ffffff"
+            android:textSize="40sp"
+            android:rotation="180"
+            android:textAlignment="center"
+            />
+        <ImageView
+            android:layout_width="140dp"
+            android:layout_height="150dp"
+            android:background="@drawable/yc"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ffffff">
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center">
+
+
+        <ImageView
+            android:layout_width="140dp"
+            android:layout_height="150dp"
+            android:background="@drawable/gc"/>
+
+        <TextView
+            android:id="@+id/a1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="player 1"
+            android:textColor="#ffffff"
+            android:textSize="40sp"
+            android:textAlignment="center"
+            />
+
+
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
