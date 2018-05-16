@@ -5,7 +5,7 @@
  
  <img src="https://github.com/mamoun-kubur/neon_dash/blob/master/game.png" width="130d" height="230">
  
- [download the game](https://github.com/mamoun-kubur/neon_dash/base.apk)
+ [download the game here :)](https://github.com/mamoun-kubur/neon_dash/blob/master/base.apk)
 
  
  # feel free to contribute, clone, fork , pull and push :)
